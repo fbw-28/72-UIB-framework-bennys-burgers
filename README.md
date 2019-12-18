@@ -7,15 +7,15 @@
 * site header is sticky to the top 
 * add scroll to section - on click on the items in the menu, scroll to section
 
-![example-desktop](example-desktop.jpg)
+![example-desktop](exercise/example-desktop.jpg)
 
 ## Tablet
 
-![example-tablet](example-tablet.png)
+![example-tablet](exercise/example-tablet.png)
 
 ## Mobile
 
-![example-mobile](example-mobile.png)
+![example-mobile](exercise/example-mobile.png)
 
 ## Customize Bootstrap
 
